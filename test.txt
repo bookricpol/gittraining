@@ -1,1 +1,2 @@
 Questo è un file di testo da modificare a piacere nelle pull request. 
+una nuova riga
